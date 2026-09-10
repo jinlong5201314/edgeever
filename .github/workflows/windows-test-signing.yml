@@ -1,3 +1,4 @@
+# Fork activation marker: touching a workflow file enables GitHub Actions in this fork.
 name: Windows test signing
 
 on:
